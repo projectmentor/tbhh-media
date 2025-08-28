@@ -1,2 +1,2 @@
 /* site-global.part2.js - Minified 2025-08-28 */
-!function(t){function e(){var e=document.createElement("script");e.src="https://cdn.jsdelivr.net/gh/projectmentor/tbhh-assets@main/js/tbhh-extended.js?v="+Date.now(),e.onload=function(){if(window.tbhhExtended&&window.tbhhExtended.init)try{window.tbhhExtended.init(t)}catch(t){console.warn("tbhhExtended init error",t)}},document.head.appendChild(e)}t=t||window.siteAppVm,"loading"===document.readyState?document.addEventListener("DOMContentLoaded",e):e()}(window.siteAppVm);
+!function(i){i=i||window.siteAppVm}();
