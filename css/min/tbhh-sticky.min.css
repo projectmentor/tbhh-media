@@ -1,2 +1,2 @@
-/* tbhh-sticky.css - Minified 2025-09-15_221601 */
+/* tbhh-sticky.css - Minified 2025-09-15_222231 */
 .tbhh-sticky-container{position:fixed;left:0;right:0;z-index:19999;pointer-events:none}.tbhh-sticky-container>*{pointer-events:auto}.tbhh-sticky-spacer{height:0}#tbhh-hero-fixed.in-sticky-container{position:relative!important;top:0!important}.tbhh-sticky-search{background:#fff;box-shadow:0 4px 6px rgba(0,0,0,.1);margin:0 auto;max-width:var(--module-width, 1000px);padding:10px 20px;border-radius:0 0 8px 8px}#tbhh-hero-fixed.in-sticky-container+.tbhh-sticky-search{margin-top:-10px}@media (max-width:767px){.tbhh-sticky-search{padding:8px 10px}#tbhh-hero-fixed.in-sticky-container+.tbhh-sticky-search{margin-top:-8px}}
